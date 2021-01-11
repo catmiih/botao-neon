@@ -2,6 +2,7 @@
 /*BOTAO NEON */
 
 a h2 {
+	padding: 10px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
 a.neon{
